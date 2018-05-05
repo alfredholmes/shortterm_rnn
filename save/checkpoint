@@ -1,0 +1,2 @@
+model_checkpoint_path: "forcaster"
+all_model_checkpoint_paths: "forcaster"
